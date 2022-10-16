@@ -8,6 +8,8 @@ typedef pair<int, int> pii;
 
 #define pb push_back
 
+// https://csacademy.com/contest/archive/task/matrix_exploration/
+
 int n, m, k;
 
 struct cell {

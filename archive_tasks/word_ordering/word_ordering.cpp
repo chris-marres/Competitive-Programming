@@ -8,6 +8,9 @@ typedef pair<int, int> pii;
 
 #define pb push_back
 
+// https://csacademy.com/contest/archive/task/word_ordering/
+
+
 map<char, int> m;
 
 struct my_string {

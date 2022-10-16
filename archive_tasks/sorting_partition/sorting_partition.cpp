@@ -1,12 +1,14 @@
 #include <bits/stdc++.h> // Includes all the standard libraries (iostream, vector, algorythm...)
 using namespace std;
 
-// Always use long long
 typedef long long ll;
 
 typedef vector<int> vi;
 typedef vector<vi> vvi;
 typedef pair<int, int> pii;
+
+// https://csacademy.com/contest/archive/task/sorting_partition/
+
 
 int main(){
 

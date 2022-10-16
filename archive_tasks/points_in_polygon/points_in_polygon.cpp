@@ -8,6 +8,8 @@ typedef pair<int, int> pii;
 
 #define pb push_back
 
+// https://csacademy.com/contest/archive/task/points_in_polygon/
+
 struct point {
     float x, y;
     point(float x, float y) : x(x), y(y) {}
