@@ -33,3 +33,5 @@ source ~/.bash_aliases
 ```
 
 6. Now you can use the commands `setup`, `compile` and `run` to create a new file(in it's folder), compile and run the code respectively.
+Please also note that the `setup` command will automatically redirect you to the folder where the file is created.
+No need to cd into it :)
