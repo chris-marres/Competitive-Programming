@@ -1,3 +1,3 @@
 #!bin/bash
 
-./"$(basename ${PWD})"
+./"$(basename "${PWD}")"
